@@ -1,0 +1,5 @@
+npx create-expo-app@latest
+
+
+# update
+  The latest npx create-expo-app might come bundled with the newest Expo SDK packages by default. These packages provide access to various functionalities like camera, notifications, or authentication, and they are constantly being updated with new features and bug fixes.
