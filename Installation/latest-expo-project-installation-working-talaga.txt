@@ -1,0 +1,5 @@
+npx create-expo-app@latest my-app --template blank
+- create expo latest
+
+npm install expo-router@latest
+- with latest router offering File-Based router
