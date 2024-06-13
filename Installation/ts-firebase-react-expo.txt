@@ -1,0 +1,17 @@
+npx create-expo-app fireApp -t expo-template-blank-typescript
+cd ./fireApp
+npx expo install firebase
+
+# Navigation
+npm install @react-navigation/native @react-navigation/native-stack
+npx expo install react-native-screens react-native-safe-area-context
+
+for version  "expo": "~51.0.12" is need to .13
+
+npx expo customize metro.config.js
+   ==> const { getDefaultConfig } = require('@expo/metro-config');
+
+const defaultConfig = getDefaultConfig(__dirname);
+defaultConfig.resolver.assetExts.push('cjs');
+
+module.exports = defaultConfig;
