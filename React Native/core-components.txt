@@ -1,0 +1,53 @@
+Modal
+The Modal component is a basic way to present content above an enclosing view.
+
+Pressable
+Pressable is a Core Component wrapper that can detect various stages of press interactions on any of its defined children.
+How it works
+On an element wrapped by Pressable:
+
+onPressIn is called when a press is activated.
+onPressOut is called when the press gesture is deactivated.
+RefreshControl
+This component is used inside a ScrollView or ListView to add pull to refresh functionality. When the ScrollView is at scrollY: 0, swiping down triggers an onRefresh event.
+
+ScrollView
+Component that wraps platform ScrollView while providing integration with touch locking "responder" system.
+
+ScrollView renders all its react child components at once, but this has a performance downside.
+
+Imagine you have a very long list of items you want to display, maybe several screens worth of content. Creating JS components and native views for everything all at once, much of which may not even be shown, will contribute to slow rendering and increased memory usage.
+
+This is where FlatList comes into play. FlatList renders items lazily, when they are about to appear, and removes items that scroll way off screen to save memory and processing time.
+
+FlatList is also handy if you want to render separators between your items, multiple columns, infinite scroll loading, or any number of other features it supports out of the box.
+
+SectionList
+A performant interface for rendering sectioned lists, supporting the most handy features:
+
+Fully cross-platform.
+Configurable viewability callbacks.
+List header support.
+List footer support.
+Item separator support.
+Section header support.
+Section separator support.
+Heterogeneous data and item rendering support.
+Pull to Refresh.
+Scroll loading.
+
+StatusBar
+Component to control the app's status bar. The status bar is the zone, typically at the top of the screen, that displays the current time, Wi-Fi and cellular network information, battery level and/or other status icons.
+
+Switch
+Renders a boolean input.
+
+This is a controlled component that requires an onValueChange callback that updates the value prop in order for the component to reflect user actions. If the value prop is not updated, the component will continue to render the supplied value prop instead of the expected result of any user actions.
+
+TextInput
+A foundational component for inputting text into the app via a keyboard. Props provide configurability for several features, such as auto-correction, auto-capitalization, placeholder text, and different keyboard types, such as a numeric keypad.
+
+The most basic use case is to plop down a TextInput and subscribe to the onChangeText events to read the user input. There are also other events, such as onSubmitEditing and onFocus that can be subscribed to. A minimal example:
+
+View
+The most fundamental component for building a UI, View is a container that supports layout with flexbox, style, some touch handling, and accessibility controls. View maps directly to the native view equivalent on whatever platform React Native is running on, whether that is a UIView, <div>, android.view, etc.

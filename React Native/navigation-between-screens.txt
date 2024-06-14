@@ -1,0 +1,37 @@
+Navigating Between Screens
+ installation 
+  npm install @react-navigation/native @react-navigation/native-stack
+
+  npm install react-native-screens react-native-safe-area-context
+
+  npx expo install react-native-screens react-native-safe-area-context
+
+NavigationContainer
+Now, you need to wrap the whole app in NavigationContainer. Usually you'd do this in your entry file, such as index.js or App.js:
+
+Usage:
+import * as React from 'react';
+import {NavigationContainer} from '@react-navigation/native';
+import {createNativeStackNavigator} from '@react-navigation/native-stack';
+
+const Stack = createNativeStackNavigator();
+
+const MyStack = () => {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator>
+        <Stack.Screen
+          name="Home"
+          component={HomeScreen}
+          options={{title: 'Welcome'}}
+        />
+        <Stack.Screen name="Profile" component={ProfileScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+};
+- ung home dyan may folder pa yan so pedeng meron pa ung home menu gann ganun
+In this example, there are 2 screens (Home and Profile) defined using the Stack.Screen component. Similarly, you can define as many screens as you like.
+
+You can set options such as the screen title for each screen in the options prop of Stack.Screen.
+

@@ -1,0 +1,11 @@
+Displaying a basic button
+Button provides a basic button component that is rendered nicely on all platforms. The minimal example to display a button looks like this:
+
+Touchables
+Generally, you can use TouchableHighlight anywhere you would use a button or link on web. The view's background will be darkened when the user presses down on the button.
+
+You may consider using TouchableNativeFeedback on Android to display ink surface reaction ripples that respond to the user's touch.
+
+TouchableOpacity can be used to provide feedback by reducing the opacity of the button, allowing the background to be seen through while the user is pressing down.
+
+If you need to handle a tap gesture but you don't want any feedback to be displayed, use TouchableWithoutFeedback
