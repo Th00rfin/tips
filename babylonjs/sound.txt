@@ -1,3 +1,4 @@
 const sound = new BABYLON.Sound("name", "url to sound file", scene, null, { loop: true, autoplay: true });
 
 - you can give it then a setInterval function for every seconsdd execution
+

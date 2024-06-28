@@ -1,0 +1,9 @@
+const box = BABYLON.MeshBuilder.CreateBox("box", {}); //unit cube
+box.scaling = new BABYLON.Vector3(2, 1.5, 3);
+ung 2,1.5, 3 is equal to x,y and z
+
+meaning nyan is ung depth or width height.
+
+kapag position ay ung positon ng mga meshes gannun concept din: box.position = new BABYLON.Vector3(-2, 4.2, 0.1);
+
+kapag rotation is ung rotation is the rotaion of the meshes or model which mean ung starting rotaioan nya: box.rotation.y =BABYLON.Tools.ToRadians(25);
