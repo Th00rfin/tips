@@ -1,0 +1,6 @@
+scene and model
+- scene; use para container of the model or the world
+- model: the character or object
+- models: made from meshes or triangle or facets
+- camera: para maview the scene
+- light: in order to light the scene
