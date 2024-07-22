@@ -1,0 +1,34 @@
+
+for backend
+ typescript + nodemon + express mongoose body-parser cors
+ follow this steps for setup:
+ https://medium.com/@dinubhagya97/how-to-set-up-a-node-js-typescript-express-project-ddf4b8fe4af6
+
+note: check 1st the node version of your nodejs
+step 1: create folder: mdkir soc 
+then cd soc
+step 2: npm init -y
+step 3: npm install express mongoose body-parser cors
+
+folder structure:
+  backend 
+      controllers - for controlling who can pasok or use the web
+      database - connect to mongodb
+      models- for schema for users and more
+      routes- for routes for frontend
+      utils - for validator
+ to run:
+ 
+for frontend:
+ vite + react + tailwindcss
+   just follows this steps:
+     https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/
+
+   frontend 
+      public - mga pictures
+      src
+       components - like button 
+       context - for globalProvider para pasa sa mga childern 
+       helpers - api communicator
+       pages - like home pages and many more
+to run:

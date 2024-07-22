@@ -1,0 +1,24 @@
+/* Mobile devices (portrait and landscape) */
+@media screen and (max-width: 480px) {
+  /* Styles for small screens */
+}
+
+/* Mobile devices (landscape) and tablets (portrait) */
+@media screen and (min-width: 481px) and (max-width: 767px) {
+  /* Styles for medium screens */
+}
+
+/* Tablets (landscape) and small desktops */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  /* Styles for larger screens */
+}
+
+/* Laptops and desktops */
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
+  /* Styles for smaller desktops */
+}
+
+/* Large desktops */
+@media screen and (min-width: 1441px) {
+  /* Styles for larger desktops */
+}
