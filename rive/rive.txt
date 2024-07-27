@@ -1,0 +1,5 @@
+note for rive. a web app that focus on transforming prototype to actually code.
+
+: the thing is that rive and figma is little bit similar but it focus on animation.
+
+there's a artboard where you can store your object and animatte, just like a frame in the figma. but the artboard has a design and animation, just like figma_ design and prototypeing.
