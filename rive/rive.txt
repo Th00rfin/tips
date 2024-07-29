@@ -5,3 +5,5 @@ note for rive. a web app that focus on transforming prototype to actually code.
 there's a artboard where you can store your object and animatte, just like a frame in the figma. but the artboard has a design and animation, just like figma_ design and prototypeing.
 
 so in rive thers a time or frame where you can move in that secs oor frame per secs to animate it. 
+
+you can edit the vertices by clicking the object and finding the path and you can edit it.
