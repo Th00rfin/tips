@@ -7,3 +7,5 @@ there's a artboard where you can store your object and animatte, just like a fra
 so in rive thers a time or frame where you can move in that secs oor frame per secs to animate it. 
 
 you can edit the vertices by clicking the object and finding the path and you can edit it.
+
+so in anmation theres timeline and the state machine. the state machie is the initial object or the frame while the timeline dun ung lalagay pano magrrun or how it will be animate anmdd you can also put a duration how many secs it will be animated. - doeas thing you can the speed.
