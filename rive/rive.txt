@@ -9,3 +9,7 @@ so in rive thers a time or frame where you can move in that secs oor frame per s
 you can edit the vertices by clicking the object and finding the path and you can edit it.
 
 so in anmation theres timeline and the state machine. the state machie is the initial object or the frame while the timeline dun ung lalagay pano magrrun or how it will be animate anmdd you can also put a duration how many secs it will be animated. - doeas thing you can the speed.
+
+pedeng mong ibaba or pabagalin ing animation with the interpolation depende sayo if naka default sya or customize depende sa travel nung bola kapag linear meaning tuloy tuloy lang walang bigat or something bouncy. ma aanimate mo zya with the drive next key, and then jt depends on you how controlled it with the x and y coordinate.
+
+also you can add input and controlled para ma control mo ing animation 
