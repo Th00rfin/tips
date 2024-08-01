@@ -13,3 +13,6 @@ so in anmation theres timeline and the state machine. the state machie is the in
 pedeng mong ibaba or pabagalin ing animation with the interpolation depende sayo if naka default sya or customize depende sa travel nung bola kapag linear meaning tuloy tuloy lang walang bigat or something bouncy. ma aanimate mo zya with the drive next key, and then jt depends on you how controlled it with the x and y coordinate.
 
 also you can add input and controlled para ma control mo ing animation 
+
+meron ding workstation sa tabi nung mga looping, sa workstation is dun nakalagay kung hanggang saan lang ung loop, kasi may parang black yon.
+and also ung sa design, whch is ung bone. you can animate that bone.
