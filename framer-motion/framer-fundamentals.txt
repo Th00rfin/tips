@@ -1,0 +1,3 @@
+so framer-motion is a 2d animation, written in zig. and a framework for react js.
+
+its works as a jsx, you can also do animation in a components and integrate with it.
