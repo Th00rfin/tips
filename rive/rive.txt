@@ -16,3 +16,7 @@ also you can add input and controlled para ma control mo ing animation
 
 meron ding workstation sa tabi nung mga looping, sa workstation is dun nakalagay kung hanggang saan lang ung loop, kasi may parang black yon.
 and also ung sa design, whch is ung bone. you can animate that bone.
+
+motion path this the path where the animation will it take, you can find this in the parents of a element.
+
+also in order to aniamte you need keys from the ast key to the 2nd key it dpened how many frames it will take, the more the frames is higher the slower it takes
