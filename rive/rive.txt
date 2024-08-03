@@ -20,3 +20,5 @@ and also ung sa design, whch is ung bone. you can animate that bone.
 motion path this the path where the animation will it take, you can find this in the parents of a element.
 
 also in order to aniamte you need keys from the ast key to the 2nd key it dpened how many frames it will take, the more the frames is higher the slower it takes
+
+notes also you can group them by just dragging it to what you want group or element
