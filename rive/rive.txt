@@ -25,3 +25,5 @@ notes also you can group them by just dragging it to what you want group or elem
 
 
 assets - you can upload image that is high hd in the assets you edit its vertices.
+
+notes: each frame is always be relatively affecetd by each secs so beware of how the rive count the frame.
