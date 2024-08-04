@@ -22,3 +22,6 @@ motion path this the path where the animation will it take, you can find this in
 also in order to aniamte you need keys from the ast key to the 2nd key it dpened how many frames it will take, the more the frames is higher the slower it takes
 
 notes also you can group them by just dragging it to what you want group or element
+
+
+assets - you can upload image that is high hd in the assets you edit its vertices.
