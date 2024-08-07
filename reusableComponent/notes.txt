@@ -1,0 +1,1 @@
+notes: if mag rereuse ka component tas wag mo basta basta lalagyan id kasi damay sya lahat,you can do is to copy again the code then refactor mo nalng pero mas efficent if ggaamit ka tailwindcss talaga.
