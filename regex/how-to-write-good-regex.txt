@@ -1,0 +1,4 @@
+HOW TO WRITE GOOD REGEX
+
+^ = beggning of the line
+$ =  last line in the regex
