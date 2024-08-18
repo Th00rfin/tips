@@ -1,0 +1,3 @@
+mostly client-server are used ny modern web applications.
+the backend and frontend are seraparte to each other.
+

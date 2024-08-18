@@ -1,0 +1,1 @@
+the mvc approach is a single file project. meaning all the models from backend and view and conrtoller are in one file only.
