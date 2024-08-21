@@ -1,3 +1,5 @@
 convex a backend service. just like the firebase. convex is a alternative to firebase. 
 
 - also as I visit, its like a easy to grasp unlike the firebase.
+
+conver as SASS. easy to grasp. makakapagfocus sa design or frontend.
