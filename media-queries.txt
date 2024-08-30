@@ -1,3 +1,11 @@
+aspect-ratio: 4/4
+
+thats for image para adoptable sya
+
+
+
+
+
 /* Mobile devices (portrait and landscape) */
 @media screen and (max-width: 480px) {
   /* Styles for small screens */
