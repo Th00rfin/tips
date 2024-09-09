@@ -22,3 +22,17 @@ validation chain
 
 
   notes: also key notes this is use for handling dun in the routes that for validations
+
+
+
+
+  userschema for validation
+  checkSchema({
+    email: { isEmail: true },
+    password: { notEmpty: true },
+  });
+
+
+  validation chain equivalent
+    check('email').isEmail();
+    check('password').notEmpty();
