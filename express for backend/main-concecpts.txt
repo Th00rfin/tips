@@ -1,0 +1,12 @@
+express
+
+validation chain
+-validators
+ - determine if the value is requierd or not
+
+
+- modifiers
+ - is anong gagaiwn kaog narun ung express
+  
+- sanitizers
+  - they are the functions that  helps para itama ung mali function depdnede dun sa want mong validate
