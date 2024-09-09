@@ -10,3 +10,15 @@ validation chain
   
 - sanitizers
   - they are the functions that  helps para itama ung mali function depdnede dun sa want mong validate
+
+
+
+  api for validations
+
+
+
+
+
+
+
+  notes: also key notes this is use for handling dun in the routes that for validations
