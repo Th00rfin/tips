@@ -1,0 +1,6 @@
+  NPM AUDIT ERROR AND FORCE FIX ISSUES
+
+if you encounter error in NPM error sa pag dl mga modules tas nagdagdag ka you can do is:
+
+  # rm -rf <file>
+  # npm i
