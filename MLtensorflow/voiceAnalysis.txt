@@ -11,4 +11,15 @@ implementation for voice analysis
   - Hybrid model
 
 
+# load your dataset from the file or yung nacollect the data from tamang voice
+   - need ko kuha file supported by audio 
+
+# preprocess and extarct features dun sa file
+
+# create model
+# compile model
+# train model
+
+
+
 * train the model on labeled dataset
