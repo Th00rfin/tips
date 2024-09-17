@@ -1,0 +1,14 @@
+implementation for voice analysis
+   creating model and training model
+
+* convert raw audio data into suitable format for model
+* Extract ung audio data like ung picth, tone, intensity
+* gagamit model archicture 
+  ex: 
+  - simple LSTM( long short-term memory) network
+  - CNNS
+  - RNNs
+  - Hybrid model
+
+
+* train the model on labeled dataset
