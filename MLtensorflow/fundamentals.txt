@@ -1,0 +1,5 @@
+optimizer - used for helpls model to learn efficeitly
+ex: adam
+
+function activation - used for learning non-linear for complex pattern
+ex: relu, elu, sigmoid
